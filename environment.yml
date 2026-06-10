@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - mkdocs-material>=9.5
     - mkdocs-jupyter
+    - tornado==6.3.3

@@ -20,7 +20,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
+  <h1>Chetan Doddamani </h1>
   <p><strong>[YOUR JOB TITLE]</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
@@ -32,19 +32,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Transportation engineering and panning researcher with 8+ years of experience in data-analysis, travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 7 journal articles and presented my work at 10 international conferences. Proficiency in statistics and machine learning tools for strategic modelling. Currently at IISc, Bangalore I’m working on a real-world large scalable database to forecast Bangalore city travel demand to understand realistic development (infrastructure, fare, economic etc.) scenarios. Alongside, I use International Classification of Activities for Time-Use Statistics (ICATUS) to predict people’s time investment in various activities. On-going academic credit course: Foundational Mathematics for using GenAI at IISc Bangalore
 
 </div>
 
-<div class="about-image">
+<div class="profile.png">
   <img src="assets/images/about.png" alt="About">
 </div>
 
@@ -119,4 +111,4 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ## Connect
 
 [GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/
