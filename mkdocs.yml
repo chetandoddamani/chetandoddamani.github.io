@@ -21,19 +21,15 @@ theme:
   icon:
     logo: material/earth
   palette:
-    # To change the color, edit the 'primary' and 'accent' values below for both
-    # the 'default' (light) and 'slate' (dark) schemes.
-    # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
-    # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
-    - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+    - scheme: default
+      primary: black
+      accent: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+    - scheme: slate
+      primary: black
+      accent: grey
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

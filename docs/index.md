@@ -22,7 +22,8 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.jpg" alt="Chetan Doddamani" class="profile-photo">
   <h1>Chetan Doddamani </h1>
   <p><strong>Senior Data Analyst</strong></p>
-  <p><em>Research interest: Transportation planning, Travel behavior analysis, Statitsical modelling, multi-modal travel patterns, vehicle ownership patterns, activity-based demand modelling, and residential mobility decisions | GIS | Remote Sensing | Python</em></p>
+  <p>WSP India</p>
+  <p><em>Research interest: Transportation planning, Travel behavior analysis, Statitsical modelling, multi-modal travel patterns, vehicle ownership patterns, activity-based demand modelling, and residential mobility decisions | GIS | Remote Sensing | Python | R</em></p>
 </div>
 
 ---
