@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.jpg" alt="Chetan Doddamani" class="profile-photo">
   <h1>Chetan Doddamani </h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><strong>Senior Data Analyst</strong></p>
+  <p><em>Research interest: Transportation planning, Travel behavior analysis, Statitsical modelling, multi-modal travel patterns, vehicle ownership patterns, activity-based demand modelling, and residential mobility decisions | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -32,20 +32,34 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-Transportation engineering and panning researcher with 8+ years of experience in data-analysis, travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 7 journal articles and presented my work at 10 international conferences. Proficiency in statistics and machine learning tools for strategic modelling. Currently at IISc, Bangalore I’m working on a real-world large scalable database to forecast Bangalore city travel demand to understand realistic development (infrastructure, fare, economic etc.) scenarios. Alongside, I use International Classification of Activities for Time-Use Statistics (ICATUS) to predict people’s time investment in various activities. On-going academic credit course: Foundational Mathematics for using GenAI at IISc Bangalore
+I am a Transportation engineer and panning researcher with 8+ years of experience in data-analysis, travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 7 journal articles and presented my work at 10 international conferences. Proficiency in statistics and machine learning tools for strategic modelling. Currently at IISc, Bangalore I’m working on a real-world large scalable database to forecast Bangalore city travel demand to understand realistic development (infrastructure, fare, economic etc.) scenarios. Alongside, I use International Classification of Activities for Time-Use Statistics (ICATUS) to predict people’s time investment in various activities. On-going academic credit course: Foundational Mathematics for using GenAI at IISc Bangalore
 
 </div>
 
-<div class="profile.png">
-  <img src="assets/images/about.png" alt="About">
+<div class="about-image">
+  <img src="assets/images/presentation.png" alt="Presenting at conference">
 </div>
 
 </div>
 
 ---
 
+## Education
+
+<div class="education-table" markdown>
+
+| Degree | Institution | Subject | Year |
+|--------|-------------|---------|------|
+| Ph.D. | IIT Delhi, New Delhi | Transportation Engineering | 2017–2022 |
+| M.Tech. | VTU, Belgaum | Transportation Engineering | 2012–2014 |
+| B.E. | VTU, Belgaum | Civil Engineering | 2008–2012 |
+
+</div>
+
+---
+
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Chetan-CV.pdf){ .md-button }
 
 
 ---
@@ -54,32 +68,31 @@ Transportation engineering and panning researcher with 8+ years of experience in
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **Proficiency**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - R, Python, QGIS, ArcGIS
+    - Econometric and Statistical Modelling
+    - Spatial Data Analysis
+    - Acitivty-based Travel Analaysis
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python - API keys
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-star-four-points:{ .lg .middle } **Machine Learning Courses**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - CCE course at IISc: Foundational Mathematics for GenAI, May 2026 to August 2026 
+    - Project: Synthetic Daily Activity-Travel Schedule Generation Using India's Time Use Survey (TUS) 2024 
+    
+    
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
@@ -110,5 +123,5 @@ Transportation engineering and panning researcher with 8+ years of experience in
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/
+[GitHub](https://github.com/chetandoddamani){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/){ .md-button }

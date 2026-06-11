@@ -8,7 +8,7 @@
 # ============================================================
 
 site_name: "Chetan Doddamani"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
+site_description: "Portfolio of Chetan Doddamani — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Chetan Doddamani"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
@@ -64,11 +64,11 @@ copyright: "Copyright &copy; Chetan Doddamani"
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[chetandoddamani.github.io]
+      link: https://github.com/chetandoddamani
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/
     - icon: material/email
-      link: chetandoddamani01@gmail.com
+      link: mailto:chetandoddamani01@gmail.com
 
 
 plugins:

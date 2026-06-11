@@ -3,15 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR-EMAIL-ADDRESS] with your actual email
-- [ ] Replace [YOUR-GITHUB-USERNAME] with your GitHub username
-- [ ] Replace [YOUR-LINKEDIN-USERNAME] with your LinkedIn username
-- [ ] Replace [YOUR-NAME] in the CV link with the actual filename of your PDF
-- [ ] Delete the Twitter/X row if you don't use it
-- [ ] Delete the ResearchGate row if not applicable
--->
 
 # Contact
 
@@ -22,11 +13,15 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [chetandoddamani01@gmail.com](mailto:chetandoddamani01@gmail.com) |
+| :material-email-outline: **Email (alt)** | [chetan.doddamani@hotmail.com](mailto:chetan.doddamani@hotmail.com) |
+| :material-phone: **Phone** | +91-9742020603 |
+| :material-map-marker: **Address** | H.No. 2235, Sector 11, Mahantesh Nagar, Belgaum, Karnataka, India – 590016 |
+| :fontawesome-brands-github: **GitHub** | [github.com/chetandoddamani](https://github.com/chetandoddamani) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [dr-chetan-doddamani-phd](https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/) |
+| :material-school: **ResearchGate** | [Chetan-Doddamani](https://www.researchgate.net/profile/Chetan-Doddamani) |
+| :material-google: **Google Scholar** | [Chetan Doddamani](https://scholar.google.co.in/citations?user=lHYaddMAAAAJ&hl=en) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Chetan-CV.pdf){ .md-button .md-button--primary }

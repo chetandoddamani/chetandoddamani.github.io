@@ -47,6 +47,8 @@
 
 .about-image img {
   width: 400px;
+  height: 300px;
+  object-fit: cover;
   border-radius: 8px;
   display: block;
 }
@@ -111,4 +113,30 @@
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 0.75rem;
+}
+
+/* Education table font size */
+.education-table {
+  font-size: 1.15rem;
+}
+
+/* Experience entry with logo */
+.exp-entry {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+
+.exp-logo {
+  flex: 0 0 90px;
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  background: white;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.exp-details {
+  flex: 1;
 }
