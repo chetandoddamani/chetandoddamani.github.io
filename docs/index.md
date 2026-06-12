@@ -82,8 +82,8 @@ I am a Transportation engineer and panning researcher with 8+ years of experienc
 
     ---
 
-    - Python - API keys
-    - R — sf, terra, ggplot2
+    - Python - API, Pandas, selenium, 
+    - R — sf, spdep, lavaan, ggplot2
     
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning Courses**
@@ -99,17 +99,14 @@ I am a Transportation engineer and panning researcher with 8+ years of experienc
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
+    - Mappls API route determination 
     - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
+    - Census, NFHS, Time Use Data (TUS) data sets 
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
