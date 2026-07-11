@@ -6,10 +6,10 @@ hide:
 
 <div class="intro-section">
   <div class="intro-text">
-    <h1 class="intro-name">Chetan Doddamani</h1>
+    <h1 class="intro-name"><strong>Chetan Doddamani</strong></h1>
     <p class="intro-title">
       <strong>Senior Data Analyst</strong>, WSP India<br>
-      Post-Doctoral Researcher, CiSTUP, IISc Bangalore
+      <span class="intro-prev">Previously: Post-Doctoral Researcher, CiSTUP, IISc Bangalore</span>
     </p>
     <p class="intro-bio">
       I am a Transportation Engineer and Planning Researcher with 8+ years of experience in travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 8 journal articles and presented at 10 international conferences. Currently at IISc Bangalore, I work on large-scale real-world databases to forecast Bangalore city travel demand and understand the impact of infrastructure, fare, and economic development scenarios. I also use the International Classification of Activities for Time-Use Statistics (ICATUS) to model people's time investment across daily activities.
