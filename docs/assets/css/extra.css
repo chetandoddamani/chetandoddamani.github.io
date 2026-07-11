@@ -78,6 +78,29 @@
   color: #90caf9;
 }
 
+/* ── Conference/presentation photo below intro ── */
+.conf-photo {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.conf-photo img {
+  width: 100%;
+  max-width: 700px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+.conf-caption {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.4rem;
+  font-style: italic;
+}
+
 /* ── Recent News list ── */
 .md-typeset ul li {
   margin-bottom: 0.4rem;

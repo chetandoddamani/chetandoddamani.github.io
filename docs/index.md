@@ -27,6 +27,11 @@ hide:
   </div>
 </div>
 
+<div class="conf-photo">
+  <img src="assets/images/presentation.png" alt="Presenting at an international conference">
+  <p class="conf-caption">Presenting at an international conference</p>
+</div>
+
 ---
 
 ## Recent News
