@@ -3,123 +3,54 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
 
-
-
-<div class="hero">
-  <img src="assets/images/profile.jpg" alt="Chetan Doddamani" class="profile-photo">
-  <h1>Chetan Doddamani </h1>
-  <p><strong>Senior Data Analyst</strong></p>
-  <p>WSP India</p>
-  <p><em>Research interest: Transportation planning, Travel behavior analysis, Statitsical modelling, multi-modal travel patterns, vehicle ownership patterns, activity-based demand modelling, and residential mobility decisions | GIS | Remote Sensing | Python | R</em></p>
+<div class="intro-section">
+  <div class="intro-text">
+    <h1 class="intro-name">Chetan Doddamani</h1>
+    <p class="intro-title">
+      <strong>Senior Data Analyst</strong>, WSP India<br>
+      Post-Doctoral Researcher, CiSTUP, IISc Bangalore
+    </p>
+    <p class="intro-bio">
+      I am a Transportation Engineer and Planning Researcher with 8+ years of experience in travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 8 journal articles and presented at 10 international conferences. Currently at IISc Bangalore, I work on large-scale real-world databases to forecast Bangalore city travel demand and understand the impact of infrastructure, fare, and economic development scenarios. I also use the International Classification of Activities for Time-Use Statistics (ICATUS) to model people's time investment across daily activities.
+    </p>
+    <p class="intro-links">
+      <a href="https://github.com/chetandoddamani" target="_blank">GitHub</a> &nbsp;/&nbsp;
+      <a href="https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/" target="_blank">LinkedIn</a> &nbsp;/&nbsp;
+      <a href="https://scholar.google.co.in/citations?user=lHYaddMAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp;
+      <a href="https://www.researchgate.net/profile/Chetan-Doddamani" target="_blank">ResearchGate</a> &nbsp;/&nbsp;
+      <a href="assets/Chetan-CV.pdf" target="_blank">CV</a>
+    </p>
+  </div>
+  <div class="intro-photo">
+    <img src="assets/images/profile.jpg" alt="Chetan Doddamani">
+  </div>
 </div>
 
 ---
 
-## About Me
+## Recent News
 
-<div class="about-section" markdown>
-<div class="about-text" markdown>
+- **Jul 2026** — Enrolled in CCE course at IISc: *Foundational Mathematics for Generative AI* (May–Aug 2026)
+- **Jun 2026** — Ongoing project: *Synthetic Daily Activity-Travel Schedule Generation Using India's Time Use Survey (TUS) 2024*
+- **Nov 2024** — Joined CiSTUP, IISc Bangalore as Post-Doctoral Researcher
+- **Jan 2024** — Visiting Researcher at Nagoya University, Japan (Jan–Jul 2024)
+- **Jun 2023** — Consultant at DULT, Government of Karnataka
+- **Mar 2022** — Senior Program Associate at ITDP India
+- **2022** — Completed PhD in Transportation Engineering from IIT Delhi
 
-I am a Transportation engineer and panning researcher with 8+ years of experience in data-analysis, travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 7 journal articles and presented my work at 10 international conferences. Proficiency in statistics and machine learning tools for strategic modelling. Currently at IISc, Bangalore I’m working on a real-world large scalable database to forecast Bangalore city travel demand to understand realistic development (infrastructure, fare, economic etc.) scenarios. Alongside, I use International Classification of Activities for Time-Use Statistics (ICATUS) to predict people’s time investment in various activities. On-going academic credit course: Foundational Mathematics for using GenAI at IISc Bangalore
+---
 
-</div>
+## Research Interests
 
-<div class="about-image">
-  <img src="assets/images/presentation.png" alt="Presenting at conference">
-</div>
-
-</div>
+Transportation Planning &nbsp;·&nbsp; Travel Behavior Analysis &nbsp;·&nbsp; Activity-Based Demand Modelling &nbsp;·&nbsp; Multi-Modal Travel Patterns &nbsp;·&nbsp; Vehicle Ownership &nbsp;·&nbsp; Residential Mobility &nbsp;·&nbsp; GIS &amp; Remote Sensing &nbsp;·&nbsp; Statistical &amp; Econometric Modelling &nbsp;·&nbsp; Python &nbsp;·&nbsp; R
 
 ---
 
 ## Education
 
-<div class="education-table" markdown>
-
-| Degree | Institution | Subject | Year |
-|--------|-------------|---------|------|
+| Degree | Institution | Field | Year |
+|--------|-------------|-------|------|
 | Ph.D. | IIT Delhi, New Delhi | Transportation Engineering | 2017–2022 |
 | M.Tech. | VTU, Belgaum | Transportation Engineering | 2012–2014 |
 | B.E. | VTU, Belgaum | Civil Engineering | 2008–2012 |
-
-</div>
-
----
-
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Chetan-CV.pdf){ .md-button }
-
-
----
-
-## Skills
-
-<div class="grid cards" markdown>
-
--   :material-layers:{ .lg .middle } **Proficiency**
-
-    ---
-
-    - R, Python, QGIS, ArcGIS
-    - Econometric and Statistical Modelling
-    - Spatial Data Analysis
-    - Acitivty-based Travel Analaysis
-
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python - API, Pandas, selenium, 
-    - R — sf, spdep, lavaan, ggplot2
-    
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning Courses**
-
-    ---
-
-    - CCE course at IISc: Foundational Mathematics for GenAI, May 2026 to August 2026 
-    - Project: Synthetic Daily Activity-Travel Schedule Generation Using India's Time Use Survey (TUS) 2024 
-    
-    
-
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Mappls API route determination 
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - Census, NFHS, Time Use Data (TUS) data sets 
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
-</div>
-
-
----
-
-## Connect
-
-[GitHub](https://github.com/chetandoddamani){ .md-button }
-[LinkedIn](https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/){ .md-button }
