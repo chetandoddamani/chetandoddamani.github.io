@@ -15,7 +15,13 @@ hide:
       <span class="intro-prev">Previously: Post-Doctoral Researcher, CiSTUP, IISc Bangalore</span>
     </p>
     <p class="intro-bio">
-      I am a Transportation Engineer and Planning Researcher with 8+ years of experience in travel demand modeling, public transit planning, and multi-modal travel patterns. I have published 8 journal articles and presented at 10 international conferences. Currently at IISc Bangalore, I work on large-scale real-world databases to forecast Bangalore city travel demand and understand the impact of infrastructure, fare, and economic development scenarios. I also use the International Classification of Activities for Time-Use Statistics (ICATUS) to model people's time investment across daily activities.
+      I am a transportation engineer and planning specialist with over eight years of experience in travel demand modelling, public transit planning, and multimodal travel behaviour. I am currently a Senior Data Analyst at WSP, where I apply this expertise to real-world transport planning projects.
+    </p>
+    <p class="intro-bio">
+      Before joining WSP, I was a postdoctoral researcher at the Indian Institute of Science (IISc), Bangalore. There I built city-scale travel demand models from large real-world datasets and used them to test how new infrastructure, fare policies, and economic growth could change the way Bangalore travels. I also modelled how people divide their day across activities, using the UN's International Classification of Activities for Time-Use Statistics (ICATUS) to link time use to travel choices.
+    </p>
+    <p class="intro-bio">
+      I hold a PhD in Transportation Engineering from IIT Delhi. My work has appeared in 8 peer-reviewed journal articles and 10 international conference presentations.
     </p>
     <p class="intro-links">
       <a href="https://github.com/chetandoddamani" target="_blank">GitHub</a> &nbsp;/&nbsp;

@@ -189,3 +189,26 @@
 .exp-details {
   flex: 1;
 }
+
+/* ── Photo gallery ── */
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.photo-item {
+  margin: 0;
+}
+
+.photo-item img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+.photo-item figcaption {
+  font-size: 0.75rem;
+  color: #666;
+  margin-top: 0.4rem;
+}
