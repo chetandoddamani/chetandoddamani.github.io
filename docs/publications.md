@@ -61,4 +61,4 @@ hide:
 
 ---
 
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+*For citation counts and a full list, see [Google Scholar](https://scholar.google.co.in/citations?user=lHYaddMAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Chetan-Doddamani) or [ORCID](https://orcid.org/0000-0002-0668-2036).*

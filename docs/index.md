@@ -28,6 +28,7 @@ hide:
       <a href="https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/" target="_blank">LinkedIn</a> &nbsp;/&nbsp;
       <a href="https://scholar.google.co.in/citations?user=lHYaddMAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp;
       <a href="https://www.researchgate.net/profile/Chetan-Doddamani" target="_blank">ResearchGate</a> &nbsp;/&nbsp;
+      <a href="https://orcid.org/0000-0002-0668-2036" target="_blank">ORCID</a> &nbsp;/&nbsp;
       <a href="assets/Chetan-CV.pdf" target="_blank">CV</a>
     </p>
   </div>

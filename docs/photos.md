@@ -14,4 +14,8 @@ hide:
     <img src="../assets/images/photos/wsstl-2025-talk.jpeg" alt="Presenting at WSSTL-2025" loading="lazy">
     <figcaption>Presenting at WSSTL-2025</figcaption>
   </figure>
+  <figure class="photo-item">
+    <img src="../assets/images/photos/wsstl-2025-study-area.jpg" alt="Presenting the Hubli-Dharwad study area at WSSTL-2025" loading="lazy">
+    <figcaption>Presenting the Hubli-Dharwad study area at WSSTL-2025</figcaption>
+  </figure>
 </div>

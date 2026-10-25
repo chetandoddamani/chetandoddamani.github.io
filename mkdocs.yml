@@ -63,6 +63,8 @@ extra:
       link: https://github.com/chetandoddamani
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-0668-2036
     - icon: material/email
       link: mailto:chetandoddamani01@gmail.com
 

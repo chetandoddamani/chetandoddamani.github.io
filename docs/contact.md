@@ -21,6 +21,7 @@ Feel free to reach out through any of the channels below.
 | :fontawesome-brands-linkedin: **LinkedIn** | [dr-chetan-doddamani-phd](https://www.linkedin.com/in/dr-chetan-doddamani-phd-9a742217/) |
 | :material-school: **ResearchGate** | [Chetan-Doddamani](https://www.researchgate.net/profile/Chetan-Doddamani) |
 | :material-google: **Google Scholar** | [Chetan Doddamani](https://scholar.google.co.in/citations?user=lHYaddMAAAAJ&hl=en) |
+| :fontawesome-brands-orcid: **ORCID** | [0000-0002-0668-2036](https://orcid.org/0000-0002-0668-2036) |
 
 ---
 
